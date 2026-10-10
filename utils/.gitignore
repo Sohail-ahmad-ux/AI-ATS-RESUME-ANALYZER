@@ -1,0 +1,48 @@
+# Python virtual environments
+
+.venv/
+venv/
+env/
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+
+# Environment variables and secrets
+
+.env
+.env.*
+
+# IDE settings
+
+.vscode/
+
+# Generated files
+
+outputs/
+logs/
+temp/
+
+# Uploaded documents and private data
+
+uploads/
+
+# Generated vector databases
+
+chroma_db/
+vector_store/
+
+# Downloaded model weights
+
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+
+# OS files
+
+.DS_Store
+Thumbs.db

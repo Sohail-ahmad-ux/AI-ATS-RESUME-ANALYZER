@@ -1,0 +1,34 @@
+# Python environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+
+# Databases and generated files
+*.db
+reports/
+outputs/
+logs/
+
+# IDE
+.vscode/
+
+# Uploaded files and generated data
+uploads/
+chroma_db/
+vector_store/
+
+# Model weights
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+
+# Private PDFs
+ATS_Report.pdf
+Sohail_CV.pdf

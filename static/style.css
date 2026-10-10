@@ -1,0 +1,103 @@
+/* Background */
+.stApp{
+    background:hsl(357, 52%, 28%);
+}
+
+/* Main Title */
+.main-title{
+    text-align:center;
+    font-size:42px;
+    font-weight:700;
+    color:#0F172A;
+}
+
+.subtitle{
+    text-align:center;
+    color:#6B7280;
+    font-size:18px;
+    margin-bottom:35px;
+}
+
+/* Cards */
+
+.card{
+    background:white;
+    border-radius:18px;
+    padding:25px;
+    box-shadow:0px 5px 20px rgba(0,0,0,.08);
+    margin-bottom:20px;
+}
+
+/* Score */
+
+.score{
+    text-align:center;
+}
+
+.score-value{
+    font-size:70px;
+    font-weight:700;
+}
+
+.score-title{
+    font-size:22px;
+    color:#6B7280;
+}
+
+.recommendation{
+
+    font-size:22px;
+
+    font-weight:bold;
+
+    margin-top:10px;
+
+}
+
+/* Stats */
+
+.stat-box{
+
+    background:white;
+
+    padding:20px;
+
+    border-radius:15px;
+
+    text-align:center;
+
+    box-shadow:0px 5px 15px rgba(0,0,0,.08);
+
+}
+
+.stat-title{
+
+    font-size:18px;
+
+    color:#6B7280;
+
+}
+
+.stat-value{
+
+    font-size:34px;
+
+    font-weight:bold;
+
+}
+
+/* Section Titles */
+
+.section-title{
+
+    font-size:28px;
+
+    font-weight:bold;
+
+    color:#0F172A;
+
+    margin-top:30px;
+
+    margin-bottom:20px;
+
+}
